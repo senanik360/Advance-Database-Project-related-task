@@ -1,0 +1,181 @@
+#labels{
+    color:rgb(68, 5, 37);
+    font-size:20px;
+}
+.errormsg{
+    color:rgb(152, 10, 19);
+    font-size:15px;
+}
+.button{
+    margin:5px;
+    border:5px solid rgb(119, 184, 238) ;
+    padding:5px;
+    width:80px;
+    border-radius: 10px;
+    
+}
+.submitbutton{
+    background-color: green;
+    color:white;
+}
+.resetbutton{
+    color: white;
+    background-color: red;
+}
+
+.searchbutton{
+    color: white;
+    background-color:rgb(35, 160, 243);
+}
+.updatebutton{
+    color: white;
+    background-color:coral;
+}
+div.position{
+    position: relative;
+    left:500px;
+    top:600px;
+}
+h1 {
+    color: navy;
+    margin-left: 20px;
+  }
+  body {
+    background-color: lightblue;
+  }
+  div.heading {
+    border: 1px solid rgb(0, 0, 0);
+    margin-top: 50px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    background-color: lightblue
+    }
+    
+  div.body {
+    border: 1px solid rgb(0, 0, 0);
+    margin-top: 50px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    background-color: rgb(182, 173, 230)
+    }
+    .p3 {
+        font-family: "Lucida Console", "Courier New", monospace;
+      }
+    .p5 {
+        font-family: Garamond, serif;
+      }
+
+      div.sticky{
+        position: sticky;
+        border: 1px solid rgb(0, 0, 0);
+        margin-top: 50px;
+        margin-bottom: 100px;
+        margin-right: 150px;
+        margin-left: 80px;
+        background-color: lightblue
+      }
+
+      #sticky{
+        position: sticky;
+        background-color: #cadfe8;
+        border: 2px solid #214171;
+        height: 80px;
+        top: 0px;
+        
+      border-radius: 12px;
+      }
+    
+    #relative{
+        position: relative;
+        background-color: skyblue;
+        border: 3px solid blue;
+        top: 0;
+        height: 25px;
+    
+    }
+    
+    #static{
+        position: static;
+        background-color:darkgrey;
+        border: 3px solid black;
+        top: 0;
+        height: 25px;
+    }
+    
+    #fixed{
+      position: fixed;
+      background-color: rgb(195, 230, 245);
+      border: 2px solid rgb(4, 64, 102);
+      height: 80px;
+      left: 620px;
+      border-radius: 12px;
+    }
+    
+    #absolute{
+      position: absolute;
+      background-color: pink;
+      border: 3px solid red;
+      /* top: 0; */
+      height: 25px;
+      left: 250px;
+    }
+    .img-border
+    {
+      border: 5px solid rgb(22, 61, 200);
+      
+    }
+    
+      a:link, a:visited {
+        background-color: #05a79c;
+        color: white;
+        padding: 12px 20px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        
+    border-radius: 10px;
+      }
+      
+      a:hover, a:active {
+        background-color: rgb(35, 3, 151);
+      }
+      div.bodynocolor {
+        border: .5px solid rgb(0, 0, 0);
+        margin-top: 0px;
+        margin-bottom: 50px;
+        margin-right: 500px;
+        margin-left: 550px;
+        background-color: rgb(204, 173, 230)
+
+        }
+        
+  div.heading1 {
+    border: 2px solid rgb(39, 6, 147);
+    border-radius: 12px;
+    margin-top: 50px;
+    margin-bottom: 60px;
+    margin-right: 400px;
+    margin-left: 430px;
+    background-color: rgb(175, 144, 188)
+    }
+    
+.p6 {
+    font-family: Copperplate, Papyrus, fantasy;
+    color: rgb(147, 11, 92);
+  }
+  .p7 {
+    font-family: Copperplate, Papyrus, fantasy;
+    color: rgb(200, 9, 34);
+  }
+  div.heading2 {
+    border: 2px solid rgb(39, 6, 147);
+    border-radius: 12px;
+    margin-top: 50px;
+    margin-bottom: 60px;
+    margin-right: 400px;
+    margin-left: 400px;
+    background-color: rgb(175, 144, 188)
+    }
+   
